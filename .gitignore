@@ -1,0 +1,25 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#R files
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+*.Rproj
+*.html
+.Rproj.user
+
+#Compressed files
+*.zip
+*.zipx
+
+# Office temporary
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
+#Other temporary
+*.tmp
+*.bak
