@@ -36,7 +36,7 @@ It's nearly impossible to find choice study data that isn't protected by client 
 
 
 
-##[Low Sample Cluster Prediction](https://github.com/msheffer2/Hierarchical-Bayes-Choice-Study)
+##[Low Sample Cluster Prediction](https://github.com/msheffer2/Low-Sample-Cluster-Prediction)
 
 -----
 

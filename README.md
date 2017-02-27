@@ -39,8 +39,8 @@ client confidentiality, so I used this data from my Marketing Analytics
 course at Northwestern to show how I might go about conducting discrete
 choice study to answer marketing questions about a new product offering.
 
-[Low Sample Cluster Prediction](https://github.com/msheffer2/Hierarchical-Bayes-Choice-Study)
----------------------------------------------------------------------------------------------
+[Low Sample Cluster Prediction](https://github.com/msheffer2/Low-Sample-Cluster-Prediction)
+-------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
