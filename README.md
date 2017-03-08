@@ -26,7 +26,7 @@ but it was great R practice, which I needed at that time. I used the
 Yelp Dataset Challenge data to develop predictive models to find out
 what types of review text could predict good reviews (5-star) or poor
 review (1-star). I don't use NLP in my current work but the overall work
-flow of the project is representative of how I like to appropriate
+flow of the project is representative of how I like to approach
 problems.
 
 [Hiearchical Bayes Choice Study](https://github.com/msheffer2/Hierarchical-Bayes-Choice-Study)
@@ -36,8 +36,9 @@ problems.
 
 It's nearly impossible to find choice study data that isn't protected by
 client confidentiality, so I used this data from my Marketing Analytics
-course at Northwestern to show how I might go about conducting discrete
-choice study to answer marketing questions about a new product offering.
+course at Northwestern to show how I might go about implementing a
+discrete choice model to answer marketing questions about a new product
+offering.
 
 [Low Sample Cluster Prediction](https://github.com/msheffer2/Low-Sample-Cluster-Prediction)
 -------------------------------------------------------------------------------------------
